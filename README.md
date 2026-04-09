@@ -157,3 +157,5 @@ void loop() {
 }
 # Project Prototype
 https://github.com/sireeshachavana/Smart-Android-Based-Surveillance-Robot-with-Robotic-Arm-and-Safety-Management-System/issues/1#issue-4231530344
+# Robotic Arm
+![Image](https://github.com/user-attachments/assets/d6144233-c04a-47ee-b7d2-3b46255df624)
